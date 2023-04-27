@@ -1,0 +1,13 @@
+.accordion{
+    background-color: #CFBCF2;    
+    border: 1px solid #51279b;
+    border-radius: 1rem;
+}
+
+.question{
+    font-weight: bold;
+    margin: .75rem;
+}
+.answer{
+    margin: .75rem;      
+}
