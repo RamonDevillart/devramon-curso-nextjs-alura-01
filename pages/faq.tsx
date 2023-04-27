@@ -39,7 +39,8 @@ export default function FAQ({ faq }){
                             iconVariant: "chevronRight",
                             marginLeft: theme.space.xpx,
                         }}
-                        aria-hidden="true" as={undefined}            />
+                        aria-hidden="true" 
+                        as={undefined}/>
           </div>{" "}
           Ir para a home
         </Link>
